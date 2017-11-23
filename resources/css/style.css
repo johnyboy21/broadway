@@ -1,0 +1,61 @@
+body {
+  font-family: Helvetica;
+  display: block;
+}
+
+.body {
+  text-align: center;
+}
+
+.banner {
+  background-image: url("../images/building.png");
+  text-align: center;
+  color: white;
+}
+
+h1 h2 h3 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: -10px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.banner {
+  background-image: url("../images/building.png");
+  text-align: center;
+  color: white;
+}
+
+.banner h1 {
+  font-size: 70px;
+}
+
+p {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
+.link {
+  color: white;
+  font-size: 18px;
+}
+
+.body-item {
+  font-size: 14px;
+}
+
+.image {
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white
+}
